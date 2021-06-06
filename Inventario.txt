@@ -1,0 +1,15 @@
+Papas
+Se compro 7
+Pago con IVA $128.6208MX
+Sin IVA $110.88MX
+ 
+Frituras
+Se compro 3
+Pago con IVA $39.672000000000004MX
+Sin IVA $34.2MX
+ 
+Salsa de tomate
+Se compro 3
+Pago con IVA $76.038MX
+Sin IVA $65.55MX
+ 
